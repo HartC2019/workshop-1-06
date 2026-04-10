@@ -75,3 +75,7 @@ body {
 }
 
 /* Main content */
+
+.site-main {
+  background-color: white;
+}
